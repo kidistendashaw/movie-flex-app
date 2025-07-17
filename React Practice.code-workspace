@@ -1,13 +1,19 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "../ReactProjects"
-	},
-	{
-		"path": "../Users/kidis/OneDrive/Documents/VS"
-	}
-]
+    {
+      "path": "."
+    },
+    {
+      "path": "../ReactProjects"
+    },
+    {
+      "path": "../Users/kidis/OneDrive/Documents/VS"
+    },
+    {
+      "path": "../Users/kidis/first-next-app"
+    },
+    {
+      "path": "../Users/kidis/nextapp-type"
+    }
+  ]
 }
